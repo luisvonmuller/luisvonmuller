@@ -33,7 +33,7 @@ Message me on: luisvmuller@icloud.com or on Twitter (@luisvonmuller) until first
 #### 👨‍🎓 Studies information:
  - **Formal Education**: **Web Development Technical Course** at SENAI-SC, **Computer Engineering** at the **Federal University of Rio Grande** (FURG @ Brasil 🇧🇷) 
  *Dropped out on the third year because of Learning/Work oportunities (2019) that I decided tha would be better for me 🥰 - In the future I hope to rejoin the Brazilian Academy 🇧🇷, or maybe out?* 😊
- - **Informal or Online courses**: and certifications will be **available soon as possible** on a public-repository **as well the notes taken on the courses**/snippets that I've saved. 👀 
+ - **Informal or Online courses**: certifications will be **available soon as possible** on a public-repository **as well the notes taken on the courses**/snippets that I've saved. 👀 
 
 **In short, I'm self-taught at the most of things**
 

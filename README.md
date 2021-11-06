@@ -54,8 +54,8 @@ Message me on: luisvmuller@icloud.com or on Twitter (@luisvonmuller) until first
 
 ----
 ##### 🌱 I’m currently learning (this/next year [2021-2022] goals are ✅)
-- 🔥 I'm still going on the learning process to bea able to speak and fully understand the German Langauge (Deustch) 🇩🇪
-- 🔥 Learn the best Design patterns and the most on Functional programming over Rust Lang ( 🦀
+- 🔥 I'm still going on the learning process to be able to speak and fully understand the German Language (Deustch) 🇩🇪
+- 🔥 Learn the best Design patterns and the most on Functional programming over Rust Lang ( 🦀)
 - 🔥 Improving my Teaching and Soft Skills at the state of art for mentoring people and help you the Brazilian Dev. Community as much as I can 🇧🇷 😊 
 - 🔥 Functional Programming Theory 💁‍ (A lot of it actually, ask me about monads 😳) 
 - 🔥 Hardcore TDD and END-TO-END frameworks 👨🏻‍🔧

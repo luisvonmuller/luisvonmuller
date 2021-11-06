@@ -78,5 +78,6 @@
 - ❤️ Writing ✍️ Tech Articles like this one on Rust Lang 🦀: https://medium.com/swlh/a-simple-crud-on-rust-with-rocket-rs-and-diesel-rs-e885672cb23d.
 
 
-[![Luís Von Müller GitHub Stats:](https://github-readme-stats.vercel.app/api?username=luisvonmuller&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Luís Von Müller GitHub Stats:](https://github-readme-stats.vercel.app/api?username=luisvonmuller&count_private=true)](https://github.com/luisvonmuller/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisvonmuller&langs_count=8)](https://github.com/luisvonmuller/github-readme-stats)
 (Most of my work by now were done on private Repositories or they are on BitBucket. 😔)

@@ -2,17 +2,17 @@
 ----
 #### ⚙️ I'm a **Senior Software Developer** from Brazil's 🇧🇷 South working from São João do Oeste (home 🏠) to São Paulo 🏙. 
 
-#### 🤩 I'm offering a Free Junior Mentorship for the Brazilian Dev. Community starting at January 15th of 2022!
+#### 🤩 I'm currently offering a fre Junior Mentorship with the goal to teach the basics for new brazilian developers. It starts on January 15th, 2022! 
 
-Message me on: luisvmuller@icloud.com or on Twitter (@luisvonmuller) until first of December 2020 to Join it and more details will be given! ❤️ I would love to have the oportunnity to learn with/from you and help you grow! 🥰
+**Message me on:** luisvmuller@icloud.com or on Twitter (@luisvonmuller) until first of December 2021 to Join it and more details will be given! ❤️ I would love to have the oportunnity to learn with/from you and help you grow! 🥰
 
 ----
-#### 👨🏻‍💻 Some Work Information:
-  - **I'm Currently working at The Brazilian Startup Farol Universitário** as their **Main** Developer *(Kinda of their Technical Lead for implementations)* - https://farol.fun 🚀 (From March/2021)
-  - I've already worked as a **Tech Lead** for a Miami 🇺🇸 based company with (Rust, PHP & Javascript). (From Fev/2020 until March/2021)
-  - **Full PHP Dev** (5.6 till 7.4) at a company of my old and admired/loved SENAI's Teacher 👩‍🚀. (2019)
+#### 👨🏻‍💻 Some Work Experience Information:
+  - **I'm Currently working at a Brazilian named Startup Farol Universitário** in the position **Main** Developer *(Kind of their Technical Lead for implementations)* - https://farol.fun 🚀 (From March/2021)
+  - I've worked as a **Tech Lead** for in Miami 🇺🇸 based company with Rust, PHP & Javascript. (From Fev/2020 until March/2021)
+  - I've worked **Full PHP Dev** for ACT Sistemas (with PHP from v.5.4 to v.7.4) 🚀. (2019)
  
-🔥 **Programming languages/Libraries** that I can really do stuff with (or at least some kind of implementations 👀):
+🔥 **Programming languages/Libraries** that I worked with:
 
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust Programming Language"/></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP"/></code>
@@ -22,12 +22,9 @@ Message me on: luisvmuller@icloud.com or on Twitter (@luisvonmuller) until first
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS/SCSS" /></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Facebook React"/></code>
 
-*(I do also knowledge or may I say, I do have some months of experience on others languages like C/C++, Java, Kotlin from college and freelancing projects.)*
+*(I do also acknowledge around or may I say, I do have some months of experience on others languages like C/C++, Java, Kotlin from college and freelancing projects.)* 
  
-**I do not like Java 🤨 (Seriously)**
- 
- 
-🥷 And, yeah, for sure, also did a lot of **freelancing/hackathons back in the days** (lates 2014 and till 2019) 👀
+🥷 I also did a lot of **freelancing/hackathons back in the days** (lates 2014 and till 2019) 👀
 
 ----
 #### 👨‍🎓 Studies information:

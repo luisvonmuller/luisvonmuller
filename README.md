@@ -12,7 +12,7 @@
   - I've worked as a **Tech Lead** in Miami based company 🇺🇸 with Rust, PHP & Javascript. (From Fev/2020 until March/2021)
   - I've worked as a **Full PHP Dev** for ACT Sistemas (with PHP from v.5.4 to v.7.4) 🚀. (2019)
  
-🔥 **Programming languages/Libraries** that I worked with:
+🔥 **Programming languages/Libraries/Techs** that I worked with:
 
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust Programming Language"/></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP"/></code>
@@ -21,6 +21,10 @@
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS/SCSS" /></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="Facebook React"/></code>
+<code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres"/></code>
+<code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql"/></code>
+<code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
+
 
 *(I do also acknowledge around or may I say, I do have some months of experience on others languages like C/C++, Java, Kotlin from college and freelancing projects.)* 
  

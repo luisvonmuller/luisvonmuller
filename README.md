@@ -10,7 +10,7 @@ Message me on: luisvmuller@icloud.com or on Twitter (@luisvonmuller) until first
 #### 👨🏻‍💻 Some Work Information:
   - **I'm Currently working at The Brazilian Startup Farol Universitário** as their **Main** Developer *(Kinda of their Technical Lead for implementations)* - https://farol.fun 🚀 (From March/2021)
   - I've already worked as a **Tech Lead** for a Miami 🇺🇸 based company with (Rust, PHP & Javascript). (From Fev/2020 until March/2021)
-  - **Full PHP Dev** (5.6 till 7.4) at the company and for my old Teachers and loved teachers of SENAI 👩‍🚀. (2019)
+  - **Full PHP Dev** (5.6 till 7.4) at a company of my old and admired/loved SENAI's Teacher 👩‍🚀. (2019)
  
 🔥 **Programming languages/Libraries** that I can really do stuff with (or at least some kind of implementations 👀):
 

@@ -26,7 +26,7 @@
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"/></code>
 
 
-*(I do also acknowledge around or may I say, I do have some months of experience on others languages like C/C++, Java, Kotlin from college and freelancing projects.)* 
+*(I do also have some knowledge around or may I say, I do have some months of experience on others languages like C/C++, Java, Kotlin from college and freelancing projects.)* 
  
 🥷 I also did a lot of **freelancing/hackathons back in the days** (lates 2014 and till 2019) 👀
 

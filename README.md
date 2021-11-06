@@ -54,7 +54,7 @@
 - 🔥 I'm still going on the learning process to be able to speak and fully understand the German Language (Deustch) 🇩🇪
 - 🔥 Learn the best Design patterns and the most on Functional programming over Rust Lang ( 🦀)
 - 🔥 Improving my Teaching and Soft Skills at the state of art for mentoring people and help you the Brazilian Dev. Community as much as I can 🇧🇷 😊 
-- 🔥 Functional Programming Theory 💁‍ (A lot of it actually, ask me about monads 😳) 
+- 🔥 Functional Programming Theory 💁‍ (A lot of it, actually, ask me about monads 😳) 
 - 🔥 Hardcore TDD and END-TO-END frameworks 👨🏻‍🔧
 - 🔥 Haskell 🥷 (Didn't started it yet, but till the end of the 2022 for sure I'll!) 👈 
 

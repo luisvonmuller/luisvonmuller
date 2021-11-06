@@ -8,7 +8,7 @@
 
 ----
 #### 👨🏻‍💻 Some Work Experience Information:
-  - **I'm Currently working at a Brazilian named Startup Farol Universitário** in the position **Main** Developer *(Kind of their Technical Lead for implementations)* - https://farol.fun 🚀 (From March/2021)
+  - **I'm Currently working at a Brazilian Startup named Farol Universitário** in the position **Main** Developer *(Kind of their Technical Lead for implementations)* - https://farol.fun 🚀 (From March/2021)
   - I've worked as a **Tech Lead** in Miami based company 🇺🇸 with Rust, PHP & Javascript. (From Fev/2020 until March/2021)
   - I've worked **Full PHP Dev** for ACT Sistemas (with PHP from v.5.4 to v.7.4) 🚀. (2019)
  

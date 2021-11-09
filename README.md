@@ -1,5 +1,7 @@
 #### 👋 Hey There! My name is **Luís** Carlos **Von Müller** Júnior (I came to this world on the day of: 23/11/1997). 
 ----
+#### 🦀 Seeking for a Rust position! (Remote or on site, dont matters!)
+
 #### ⚙️ I'm a **Senior Software Developer** from Brazil's 🇧🇷 South working from São João do Oeste (home 🏠) to São Paulo 🏙. 
 
 #### 🤩 I'm currently offering a free Junior Mentorship with the goal to teach the basics for new brazilian developers. It starts on January 15th, 2022! 

@@ -9,7 +9,7 @@
 
 ----
 #### 👨🏻‍💻 Some Work Experience Information:
-  - I've worked at a Brazilian Startup named Farol Universitário in the position **Main** Developer *(Kind of their Technical Lead for implementations)* - https://farol.fun 🚀  - MERN stack empowered by TypeScript (Since April/2021)
+  - I've worked at a Brazilian Startup named Farol Universitário in the position **Main** Developer *(Kind of their Technical Lead for implementations)* - https://farol.fun 🚀  - MERN stack empowered by TypeScript (Since Setember/2021) 
   - I've worked as a **Tech Lead** in Miami based company 🇺🇸 with Rust, PHP & Javascript. (From Fev/2020 until March/2021)
   - I've worked as a **Full PHP Dev** for ACT Sistemas (with PHP from v.5.4 to v.7.4) 🚀. (2019)
  

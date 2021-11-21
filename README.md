@@ -40,7 +40,7 @@
 **In short, I'm self-taught at the most of things**
 
 #### 🤗 You can Reach me on and I'll be very happy to connect/follow you too!  
-  ![Twitter: luisvonmuller](https://img.shields.io/twitter/follow/luisvonmulller?style=social)
+  ![Twitter: luisvonmuller](https://img.shields.io/twitter/follow/luisvonmuller?style=social)
   
   📄 LinkedIn: https://www.linkedin.com/in/luisvonmuller/
   

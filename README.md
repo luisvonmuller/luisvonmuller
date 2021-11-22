@@ -71,7 +71,7 @@
 - き Start/Continue to learn the Japanese Language to be able to watch more Animes 🍥 and leans more about the Japanese Culture 🇯🇵! (I kinda already know a little on Hiragana and common sentence/base daily speaking).
       
 ###### ⚽️ My Hobbies are:
-- ❤️ Drawing 🎨 (There is a repository https://github.com/luisvonmuller/draws with them!).
+- ❤️ Drawing 🎨 (There is a repository https://github.com/luisvonmuller/doodles with them!).
 - ❤️ Running 🏃‍♂️ and Bodybuilding 💪.
 - ❤️ Learning Biology 🦠 (Especially Evolution ⌛️, Neuroscience 🧠 and Endocronology 🧬) also a lot of Math and Physics fun Stuff 🧮.
 - ❤️ Sometimes I do also try to cook but I most fail miserably 🥲.

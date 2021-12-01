@@ -3,9 +3,7 @@
 
 #### ⚙️ I'm a **Senior Software Developer** from Brazil's 🇧🇷 South from São João do Oeste (Mom's home 🏠). 
 
-#### 🤩 I'm currently offering a free Junior Mentorship with the goal to teach the basics for new brazilian developers. It starts on January 15th, 2022! 
-
-**Message me on:** luisvmuller@icloud.com or on Twitter (@luisvonmuller) until first of December 2021 to Join it and more details will be given! ❤️ I would love to have the oportunnity to learn with/from you and help you grow! 🥰
+#### 🤩 I'm currently doing a free Junior Mentorship with the goal to teach the basics for new brazilian developers. It starts on January 15th, 2022! 
 
 ----
 #### 👨🏻‍💻 Some Work Experience Information:

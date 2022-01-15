@@ -56,7 +56,6 @@
 - 🔥 Learn the best Design patterns and the most on Functional Programming style over Rust Lang ( 🦀)
 - 🔥 Functional Programming Theory 💁‍ 
 - 🔥 Hardcore TDD and END-TO-END frameworks 👨🏻‍🔧
-- 🔥 oCaml 🥷 (Didn't started it yet, but till the end of the 2022 for sure I'll!) 👈 
 
       
 ###### ⚽️ My Hobbies are:

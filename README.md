@@ -1,11 +1,10 @@
-#### 👋 Hey There! My name is **Luís** Carlos **Von Müller** Júnior (I came to this world on the day of: 23/11/1997). 
+### 👋 Hey There! My name is **Luís** Carlos **Von Müller** Júnior (I came to this world on the day of: 23/11/1997). 
 ----
 
-#### ⚙️ I'm a **Senior Software Developer** from Brazil's 🇧🇷 South from São João do Oeste (Mom's home 🏠). 
-
-#### 🤩 I'm currently doing a free Junior Mentorship with the goal to teach the basics for new brazilian developers. It starts on January 15th, 2022! 
+#### ⚙️ I'm a **Software Developer** from Brazil's 🇧🇷 South from São João do Oeste. 
 
 ----
+
 #### 👨🏻‍💻 Some Work Experience Information:
   - I've worked at a Brazilian Startup in the position **Main** Developer *(Kind of their Technical Lead for implementations)* 🚀  - MERN stack empowered by TypeScript (until nov/2021) 
   - I've worked as a **Tech Lead** in Miami based company 🇺🇸 with Rust, PHP & Javascript. (From Fev/2020 until March/2021)
@@ -33,7 +32,7 @@
 #### 👨‍🎓 Studies information:
  - **Formal Education**: **Web Development Technical Course** at SENAI-SC, **Computer Engineering** at the **Federal University of Rio Grande** (FURG @ Brasil 🇧🇷) 
  *Dropped out on the third year because of Learning/Work oportunities (2019) that I decided that would be better for me 🥰 - In the future I hope to rejoin the Brazilian Academy 🇧🇷, or maybe rejoin the Academy out of Brazil?* 😊
- - **Informal or Online courses**: certifications will be **available soon as possible** on a public-repository **as well the notes taken on the courses**/snippets that I've saved. 👀 
+ - **Informal or Online courses**: certifications will be **ASAP* on a public-repository **as well the notes taken on the courses**/snippets that I've saved. 👀 
 
 **In short, I'm self-taught at the most of things**
 
@@ -48,36 +47,23 @@
  
 ----
 ##### 🔭 I’m currently working on Side-Projects as: 
-- 👉 A 🦀 Rust Language 🦀 Course for Brazilians Developer (It also will be available in English 🇺🇸) 
-- 👉 My on personal spot to share content (luisvonmuller.dev) (Available soon as well the repository wrote on Rust 🦀)
-- 👉 A 🐍 Python 🐍 + OpenCV 👁 + Raspberry Pi 🎛 to count traffic of vehicles 🚘 thats runs on SC-163 🛣 (Extra info about this: This is an South Brazil High/Over traffic State Road) by using cameras at São João do Oeste city 📍 clover entrance I'll by tracking North and South-West Brazil's traffic on the region 👀 (Wich is a Highly agriculture 🌽 and Meat 🥩 exporting Region Internation here 💁‍♂️).  
+- 👉 A 🦀 Rust Language 🦀 Book for Brazilians Developer. 
+- 👉 My on personal spot to share content (luisvonmuller.dev) (Available soon as well the repository wrote on Rust 🦀)  
 
 ----
-##### 🌱 I’m currently learning (this/next year [2021-2022] goals are ✅)
+##### 🌱 I’m currently learning (this year [2022] goals are ✅)
 - 🔥 I'm still going on the learning process to be able to speak and fully understand the German Language (Deustch) 🇩🇪
-- 🔥 Learn the best Design patterns and the most on Functional programming over Rust Lang ( 🦀)
-- 🔥 Improving my Teaching and Soft Skills at the state of art for mentoring people and help you the Brazilian Dev. Community as much as I can 🇧🇷 😊 
-- 🔥 Functional Programming Theory 💁‍ (A lot of it, actually, ask me about monads 😳) 
+- 🔥 Learn the best Design patterns and the most on Functional Programming style over Rust Lang ( 🦀)
+- 🔥 Functional Programming Theory 💁‍ 
 - 🔥 Hardcore TDD and END-TO-END frameworks 👨🏻‍🔧
-- 🔥 Haskell 🥷 (Didn't started it yet, but till the end of the 2022 for sure I'll!) 👈 
+- 🔥 oCaml 🥷 (Didn't started it yet, but till the end of the 2022 for sure I'll!) 👈 
 
-
-##### 👁 I'm current looking for:
-- 🧎‍♂️ Another Mentor over Tech Teaching!
-- 🍏 Apples Swift Language 🖥.
-- ❤️ Help my mom as much as I can on her own Teaching-Bussiness. 👩‍🏫 (She works with English education on South-West of Brazil 📚)
-- き Start/Continue to learn the Japanese Language to be able to watch more Animes 🍥 and leans more about the Japanese Culture 🇯🇵! (I kinda already know a little on Hiragana and common sentence/base daily speaking).
       
 ###### ⚽️ My Hobbies are:
 - ❤️ Drawing 🎨 (There is a repository https://github.com/luisvonmuller/doodles with them!).
 - ❤️ Running 🏃‍♂️ and Bodybuilding 💪.
 - ❤️ Learning Biology 🦠 (Especially Evolution ⌛️, Neuroscience 🧠 and Endocronology 🧬) also a lot of Math and Physics fun Stuff 🧮.
-- ❤️ Sometimes I do also try to cook but I most fail miserably 🥲.
-- ❤️ Drinking/Sharring "Chimarrão" with my Family 🧉 (For you who don't know what it is: shorturl.at/luyBK - Here's goes a quick explanation 👀).
-- ❤️ Writing ✍️ Tech Articles like this one on Rust Lang 🦀: https://medium.com/swlh/a-simple-crud-on-rust-with-rocket-rs-and-diesel-rs-e885672cb23d.
-
+- ❤️ Writing ✍️ Tech Articles like this one on Rust Lang 🦀: [Dev To Profile](https://dev.to/luisvonmuller)
 
 ![Luís Von Müller GitHub Stats:](https://github-readme-stats.vercel.app/api?username=luisvonmuller&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisvonmuller&langs_count=4)
-
-(Most of my work by now were done on private Repositories or they are on BitBucket. 😔)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisvonmuller&langs_count=3)

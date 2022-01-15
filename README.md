@@ -1,6 +1,6 @@
-### 👋 Hey There! My name is **Luís** Carlos **Von Müller** Júnior (I came to this world on the day of: 23/11/1997). 
+### 👋 Hey There! My name is **Luís** Carlos **Von Müller** Júnior.
+<small>I'm searching for a position on The Rust Programming Language </small>
 ----
-
 #### ⚙️ I'm a **Software Developer** from Brazil's 🇧🇷 South from São João do Oeste. 
 
 ----

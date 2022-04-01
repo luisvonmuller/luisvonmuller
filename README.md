@@ -5,13 +5,7 @@
 #### ⚙️ I'm a **Software Developer** from Brazil's 🇧🇷 South from São João do Oeste. 
 
 ----
-
-#### 👨🏻‍💻 Some Work Experience Information:
-  - I've worked at a Brazilian Startup in the position **Main** Developer *(Kind of their Technical Lead for implementations)* 🚀  - MERN stack empowered by TypeScript (until nov/2021) 
-  - I've worked as a **Tech Lead** in Miami based company 🇺🇸 with Rust, PHP & Javascript. (From Fev/2020 until March/2021)
-  - I've worked as a **Full PHP Dev** for ACT Sistemas (with PHP from v.5.4 to v.7.4) 🚀. (2019)
- 
-🔥 **Programming languages/Libraries/Techs** that I worked with:
+🔥 **Programming languages/Libraries/Techs** that I know/worked with:
 
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust Programming Language"/></code>
 <code> <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP"/></code>
@@ -49,7 +43,6 @@
 ----
 ##### 🔭 I’m currently working on Side-Projects as: 
 - 👉 A 🦀 Rust Language 🦀 Book for Brazilians Developer. 
-- 👉 My on personal spot to share content (luisvonmuller.dev) (Available soon as well the repository wrote on Rust 🦀)  
 
 ----
 ##### 🌱 I’m currently learning (this year [2022] goals are ✅)

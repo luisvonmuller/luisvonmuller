@@ -2,7 +2,7 @@
 
 
 ----
-#### ⚙️ I'm a **Software Developer** from Brazil's 🇧🇷 South from São João do Oeste. 
+#### ⚙️ I'm a **Senior Back-end Software Developer** from Brazil's 🇧🇷 South from São João do Oeste. 
 
 ----
 🔥 **Programming languages/Libraries/Techs** that I know/worked with:
